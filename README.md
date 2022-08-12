@@ -6,5 +6,5 @@
 - 🛒 | Para seu modelo de negócio
 - ⚙️ | Suporte e gerenciamento
 
-Para mais Informações -> <a href="">Clique Aqui!</a>
+Para mais Informações -> <a href="https://cantinhoweb.netlify.app/">Clique Aqui!</a>
 
